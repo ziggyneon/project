@@ -1,4 +1,7 @@
-[
+headers = ["Violent crime 09", "Murder and nonnegligent manslaughter 09", "Forcible rape 09", "Robbery 09", "Aggravated assault 09" "Property crime 09", "Burglary 09" "Larceny 09", "Motor vehicle theft 09", "Violent crime 10", "Murder and nonnegligent manslaughter 10", "Forcible rape 10", "Robbery 10", "Aggravated assault 10", "Property crime 10", "Burglary 10", "Larceny-theft 10", "Motor vehicle theft 10"
+]
+
+allCrimedata = [
   ["United States Total2, 3, 4"," 1,325,896 ",15399,89241,408742,812514,9337060,2203313,6338095,795652,1246248,14748,84767,367832,778901,9082887,2159878,6185867,737142],
   ["     Connecticut"," 10,588 ",106,657,4001,5824,82625,15172,59992,7461,10057,130,583,3553,5791,78386,15172,56507,6707],
   ["     Maine"," 1,580 ",26,375,399,780,31706,6729,23955,1022,1621,24,389,414,794,32934,7359,24585,990],
